@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **info@hasandivarci.com**
 
-- 📄 Know about my experiences [https://hasandivarci.com/images/resumeImages/HasanDivarci_ResumeHasanDivarci_919.jpg](https://hasandivarci.com/images/resumeImages/HasanDivarci_ResumeHasanDivarci_919.jpg)
+- 📄 Know about my experiences [https://hasandivarci.com/images/resumeImages/HasanDivarci_hasandivarciresume_919.jpg](https://hasandivarci.com/images/resumeImages/HasanDivarci_hasandivarciresume_919.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
