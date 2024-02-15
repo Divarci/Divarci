@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Identity Server, Micro Services, Docker, RabbitMQ**
 
-- 👨‍💻 All of my projects are available at [www.hasandivarci.com](www.hasandivarci.com)
+- 👨‍💻 All of my projects are available at [https://www.hasandivarci.com](www.hasandivarci.com)
 
 - 📝 I regularly write articles on [https://hasandivarci.com/BlogApiUi](https://hasandivarci.com/BlogApiUi)
 
